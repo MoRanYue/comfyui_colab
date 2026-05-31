@@ -1,6 +1,6 @@
 # ComfyUI on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/ComfyUIonColab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MoRanYue/comfyui_colab/blob/main/ComfyUIonColab.ipynb)
 
 Run [ComfyUI](https://github.com/comfyanonymous/ComfyUI) — a powerful and modular stable diffusion GUI — directly in **Google Colab** with GPU acceleration. This notebook provides a one-click setup, persistent storage via Google Drive, automatic dependency management, custom node installation, and public URL exposure via tunneling.
 
